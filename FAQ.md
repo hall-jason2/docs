@@ -15,7 +15,7 @@ The Hashes NFT collection is divided into three categories: DAO Hashes, Standard
 Holders of DAO Hashes have the right to propose and vote on permutations, shared ownership rights over the DAO's assets, and exclusive access to community discord servers. There are a maximum of 1000 DAO hashes that will ever exist.
 
 ### How can I obtain a DAO Hash?
-DAO Hashes can be bought on secondary marketplaces such as [Opensea](https://opensea.io/collection/hashes?search[sortAscending]=true&search[sortBy]=UNIT_PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=DAO) or [SudoSwap](https://sudoswap.xyz/#/browse/buy/0xD07e72b00431af84AD438CA995Fd9a7F0207542d).
+DAO Hashes can be bought on secondary marketplaces such as [Opensea](https://opensea.io/collection/hashes?search[sortAscending]=true&search[sortBy]=UNIT_PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=DAO) or [SudoSwap](https://sudoswap.xyz/#/browse/buy/0xD07e72b00431af84AD438CA995Fd9a7F0207542d). DAO Hashes have an ID < 1000
 
 ### How can I obtain a Standard Hash?
 Standard Hashes are currently free to [mint](https://thehashes.xyz/) on Ethereum mainnet, and can be used to mint Hashes collections or to receive discounts on purchases from the JPEG Trash Bin.
