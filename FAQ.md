@@ -56,7 +56,7 @@ An on-chain governance proposal is the formal process that allows Hashes DAO NFT
 ### How long is the voting window for an on-chain governance proposal?
 17280 blocks (approximately 2.4 days).
 
-### Where can I find the Harvest NFTs?
+### Where can I find the Permutation 1 - The Harvest - NFTs?
 Browse the full collection on [Opensea](https://opensea.io/hashesDAO).
 
 ### What is the Collection Factory?
